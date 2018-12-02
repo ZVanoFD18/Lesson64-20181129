@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es3",
+    "removeComments": false,
+    "outFile": "index.js"
+  },
+  "files": [
+    "./scripts/App.ts",
+    "./scripts/Car.ts",
+    "./scripts/CarDirector.ts",
+    "./scripts/CarBuilderInterface.ts",
+    "./scripts/CarBuilderVaz2101.ts",
+    "./scripts/CarBuilderZaz.ts",
+    "./scripts/CarBuilderLaz.ts",
+    "./scripts/CarBuilderKamaz.ts"
+  ]
+}
